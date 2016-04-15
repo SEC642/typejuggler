@@ -22,7 +22,7 @@
      <div class="text-center">
        <h1 class="cover-lead">PHP Type Juggling Issues</h1>  
        <form method="post" action="win.php"/>
-     Your Username is not Modifible and will be: <input type="text" name="user" value="<?php echo $_SERVER['REMOTE_ADDR']; ?>"readonly /><br />
+     Your Username is not modifiable and will be: <input type="text" name="user" value="<?php echo $_SERVER['REMOTE_ADDR']; ?>"readonly /><br />
      Password: <input type="text" name="pass" /><br />
        <input type="submit" value="login?"/>
        </form>
