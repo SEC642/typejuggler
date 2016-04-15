@@ -39,7 +39,7 @@
   else
   {
     echo("<p>Anyway, Do you want to see a <a href=index.php?page=cat>cat?</a></p>
-    <p>Do you just fancy a <a href=index.php?page=describecat>description</a> of a cat?</p>"
-         <p>Or how about just go back to the <a href=../index.php>login</a> page?</p>");
+    <p>Do you just fancy a <a href=index.php?page=describecat>description</a> of a cat?</p>
+    <p>Or how about just go back to the <a href=../index.php>login</a> page?</p>");
   }
 ?>
